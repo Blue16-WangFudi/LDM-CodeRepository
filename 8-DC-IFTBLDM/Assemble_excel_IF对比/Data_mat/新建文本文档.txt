@@ -1,0 +1,28 @@
+Statlog (German Credit Data)数据:
+http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29(处理完毕)
+
+
+Glass Identification Data数据：
+http://archive.ics.uci.edu/ml/datasets/Glass+Identification(处理完毕)
+
+
+Iris Data数据：
+http://archive.ics.uci.edu/ml/datasets/Iris(处理完毕)
+
+
+Thyroid Disease数据：
+http://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/new-thyroid.names(处理完毕)
+
+
+Wine Data数据：
+http://archive.ics.uci.edu/ml/datasets/Wine(处理完毕)
+
+
+
+breast-cancer-wisconsin数据：
+http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/
+
+
+
+Haberman's Survival数据：
+http://archive.ics.uci.edu/ml/datasets/Haberman's+Survival（不用处理了吧，OK）

@@ -1,0 +1,2 @@
+1.将Iris-setosa，Iris-versicolor替换为1
+2.将Iris-virginica替换为-1
